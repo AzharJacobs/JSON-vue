@@ -1,0 +1,228 @@
+{
+    "jobTitle": [
+        {
+        "title": "Fullstack Developer"
+    },
+    {
+        "title": "Software Engineer"
+    },
+    {
+        "title": "UI/UX Designer"
+    }
+
+    ],
+    "aboutMe": [
+        {
+            "name": "About",
+            "text": "I consider myself someone who balances a playful and lighthearted approach with a strong sense of responsibility and focus when needed. My core principles revolve around respect, kindness, integrity, and mindfulness, and I make it a point to always be truthful and open. I thrive on personal growth and motivating those around me. As for my interests, they span a wide range, but I particularly enjoy staying active through exercise and MMA, engaging in football, exploring web development and design, sketching, immersing myself in music and movies, and cherishing moments with family and friends."
+        },
+        {
+            "name": "Objective",
+            "text": "I am deeply ambitious and dedicated to achieving holistic success and health in every aspect of my life. Constantly pursuing wisdom and self-improvement comes naturally to me, as I strive to expand my skills and knowledge. Beyond personal achievement, my aspiration is to build generational wealth and leave a meaningful impact on the lives of others, contributing positively to society's well-being."
+        }
+    ],
+    "hobbies": [
+        {
+            "image": "https://github.com/caleb-okkers/first_api/blob/main/images/download%20(3).jpg?raw=true",
+            "name": "Sport",
+            "text": "Throughout my life, a mainstay has been sport. I grew up playing football, sprinting and doing other athletic events. My favourite sports are football, MMA, rugby, athletics and Formula 1. Sport has taught me lessons of perserverence, unity and reward."
+        },
+        {
+            "image": "https://github.com/caleb-okkers/first_api/blob/main/images/download%20(4).jpg?raw=true",
+            "name": "anime",
+            "text": "My creativity has always been a great asset, in problem solving, expression and leisure. I enjoy designing, drawing, painting, poetry and music. Web Development has allowed me to exercise my creativity and it's helping me thrive holistically."
+        },
+        {
+            "image": "https://github.com/caleb-okkers/first_api/blob/main/images/IMG-20231125-WA0024(1).jpg?raw=true",
+            "name": "Family",
+            "text": "Spending quality time with my family, friends, and pets brings me immense joy. I am naturally sociable and cherish moments of relaxation and playful banter with my loved ones. They have played a pivotal role in shaping my character, and I feel incredibly fortunate to share meaningful experiences with them."
+        },
+        {
+            "image": "https://github.com/caleb-okkers/first_api/blob/main/images/download%20(5).jpg?raw=true",
+            "name": "gyming",
+            "text": "Dedicating myself to gym workouts as a cherished hobby not only enhances my physical strength and endurance but also contributes significantly to my mental clarity, emotional resilience, and overall well-being. The discipline and consistency required in maintaining a workout regimen not only sculpt my physique but also instill a sense of accomplishment and self-confidence.."
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Calculator",
+            "github": "https://github.com/caleb-okkers/calculator.git",
+            "vercel": "https://calculator-ruddy-gamma.vercel.app/",
+            "description": "Calculator using HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/Calculator.png?raw=true"
+        },
+        {
+            "name": "To Do List",
+            "github": "https://github.com/caleb-okkers/toDoList.git",
+            "vercel": "https://to-do-list-psi-gules.vercel.app/",
+            "description": "To Do List using HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/ToDoList.png?raw=true"
+        },
+        {
+            "name": "Resturant business",
+            "github": "https://github.com/caleb-okkers/mp3Player.git",
+            "vercel": "https://mp3-player-topaz.vercel.app/",
+            "description": "resturant using HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/MP3player.png?raw=true"
+        },
+        {
+            "name": "E-Commers",
+            "github": "",
+            "vercel": "",
+            "description": "E-COmemrsusing HTML, CSS and Javascript",
+            "image": ""
+        }
+    ],
+
+    "education": [
+        {
+            "qualification": "Fullstack Web Development Bootcamp",
+            "year": "April 2024 - ",
+            "institution": "Life Choices Coding Academy",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/LC.png?raw=true"
+        },
+        {
+            "qualification": "BA Sport Science & Psychology",
+            "year": "January 2023 - December 2023",
+            "institution": "Collage of cape towwn",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/su.png?raw=true"
+        },
+        {
+            "qualification": "ND Civil Engineering",
+            "year": "Febuary 2021 - December 2021",
+            "institution": "IT Academhy",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/cput.png?raw=true"
+        },
+        {
+            "qualification": "NSC",
+            "year": "January 2016 - December 2020",
+            "institution": "Ouder Molen technical High School",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/srhs.png?raw=true"
+        }
+    ],
+
+    "skills": [
+        {
+            "icon": "icon",
+            "name": "HTML"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "CSS"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Bootstrap"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Javascript"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Vue"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Git"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Github"
+            
+        }
+
+    ],
+
+    "work": [
+        {
+            "company": "Oceana Distribution",
+            "year": "September 2023 - January 2024",
+            "description": "",
+            "reference": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "company": "",
+            "year": "",
+            "description": "",
+            "reference": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "company": "",
+            "year": "",
+            "description": "",
+            "reference": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "company": "",
+            "year": "",
+            "description": "",
+            "reference": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "position": ""
+                }
+            ]
+        }
+
+    ],
+
+    "testimonials": [
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        }
+    ]
+}
