@@ -83,15 +83,15 @@
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/LC.png?raw=true"
         },
         {
-            "qualification": "BA Sport Science & Psychology",
+            "qualification": "MSITA Web Developer",
             "year": "January 2023 - December 2023",
             "institution": "Collage of cape towwn",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/su.png?raw=true"
         },
         {
-            "qualification": "ND Civil Engineering",
+            "qualification": "Software Developer",
             "year": "Febuary 2021 - December 2021",
-            "institution": "IT Academhy",
+            "institution": "IT Academy",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/cput.png?raw=true"
         },
         {
@@ -143,9 +143,9 @@
 
     "work": [
         {
-            "company": "Oceana Distribution",
-            "year": "September 2023 - January 2024",
-            "description": "",
+            "company": "Oppo Inc",
+            "year": "Febuary 2022 - January 2023",
+            "description": "I was a Sales Consultant placed inside of a cellular Store. I was resonsible for all stock in and out of the store.",
             "reference": [
                 {
                     "name": "",
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "company": "",
-            "year": "",
-            "description": "",
+            "company": "Life Choices",
+            "year": "April 2024 - ",
+            "description": "Im am Aspiring Software Developer doing an Internship and understanding the ways of a Developer",
             "reference": [
                 {
                     "name": "",
@@ -195,34 +195,34 @@
 
     "testimonials": [
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Mohammad Mohammed",
+            "position": "Co-Worker",
+            "message": "Azhar Jacobs is the epitome of reliability and competence. His work ethic is inspiring, and his ability to navigate challenges with a calm demeanor is remarkable. Beyond his professional skills, Azhar's kindness and readiness to assist others make him someone you can always count on."
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Nasheeta Jacobs",
+            "position": "Co-Worker",
+            "message": "Azhar Jacobs is not just a coworker but a beacon of positivity in our workplace. His dedication to teamwork and problem-solving has not only made him an invaluable asset but also a cherished friend. His ability to motivate and uplift everyone around him sets him apart."
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Zakariya Salie",
+            "position": "Co-Worker",
+            "message": "Working alongside Azhar Jacobs has been an absolute pleasure. His professionalism and attention to detail are second to none. What really stands out is his genuine care for his colleagues. He goes out of his way to support us, making him not just a coworker but a true friend."
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Kyle Brink",
+            "position": "Co-Worker",
+            "message": "As a coworker, Azhar Jacobs is simply exceptional. His expertise in his field is matched only by his humility and willingness to collaborate. What makes him truly special, though, is his unwavering friendship. He's the kind of person who makes every day at work brighter."
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Asheeka Samuels",
+            "position": "Co-Worker",
+            "message": "I've had the privilege of knowing Azhar Jacobs both as a coworker and a friend. His passion for his work is contagious, and his approachability makes him someone everyone enjoys working with. Azhar's ability to build strong relationships within the team is a testament to his character and leadership."
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Joel Mukanya",
+            "position": "Coding Lecture",
+            "message": "As a coding lecturer, I've had the pleasure of witnessing Azhar Jacobs' growth and proficiency firsthand. His dedication to mastering programming concepts and his eagerness to help fellow learners grasp difficult topics are truly commendable. Azhar's enthusiasm for coding is infectious, making him not only a standout student but also a supportive peer in our learning community. His ability to break down complex ideas into understandable pieces sets him apart. Azhar Jacobs is not just a talented coder; he's someone who enhances the learning environment with his collaborative spirit and genuine passion for programming."
         }
     ]
 }
