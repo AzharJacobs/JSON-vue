@@ -23,22 +23,22 @@
     ],
     "hobbies": [
         {
-            "image": "/images/sports.jpg",
+            "image": "https://azharjacobs.github.io/AzharImages/portfolio/sports.jpg",
             "name": "Sport",
             "text": "Throughout my life, a mainstay has been sport. I grew up playing football, sprinting and doing other athletic events. My favourite sports are football, MMA, rugby, athletics and Formula 1. Sport has taught me lessons of perserverence, unity and reward."
         },
         {
-            "image": "/images/anime.jpeg",
+            "image": "https://azharjacobs.github.io/AzharImages/portfolio/anime.jpeg",
             "name": "anime",
             "text": "My creativity has always been a great asset, in problem solving, expression and leisure. I enjoy designing, drawing, painting, poetry and music. Web Development has allowed me to exercise my creativity and it's helping me thrive holistically."
         },
         {
-            "image": "/images/family.webp",
+            "image": "https://azharjacobs.github.io/AzharImages/portfolio/family.webp",
             "name": "Family",
             "text": "Spending quality time with my family, friends, and pets brings me immense joy. I am naturally sociable and cherish moments of relaxation and playful banter with my loved ones. They have played a pivotal role in shaping my character, and I feel incredibly fortunate to share meaningful experiences with them."
         },
         {
-            "image": "/images/gym.jpg",
+            "image": "https://azharjacobs.github.io/AzharImages/portfolio/gym.jpg",
             "name": "gyming",
             "text": "Dedicating myself to gym workouts as a cherished hobby not only enhances my physical strength and endurance but also contributes significantly to my mental clarity, emotional resilience, and overall well-being. The discipline and consistency required in maintaining a workout regimen not only sculpt my physique but also instill a sense of accomplishment and self-confidence.."
         }
@@ -50,28 +50,28 @@
             "github": "https://github.com/AzharJacobs/calculator",
             "vercel": "https://calculator-blond-rho.vercel.app/",
             "description": "Calculator using HTML, CSS and Javascript",
-            "image": "/images/calculator.JPG"
+            "image": "https://azharjacobs.github.io/AzharImages/portfolio/calculator.JPG"
         },
         {
             "name": "To Do List",
             "github": "https://github.com/AzharJacobs/ToDoList",
             "vercel": "https://to-do-list-six-hazel.vercel.app/",
             "description": "To Do List using HTML, CSS and Javascript",
-            "image": "/images/to-do-list.png"
+            "image": "https://azharjacobs.github.io/AzharImages/portfolio/to-do-list.png"
         },
         {
             "name": "Resturant business",
             "github": "https://github.com/AzharJacobs/Resturant",
             "vercel": "https://resturant-alpha.vercel.app/",
             "description": "resturant using HTML, CSS and Javascript",
-            "image": "/images/fastfood.JPG"
+            "image": "https://azharjacobs.github.io/AzharImages/portfolio/fastfood.JPG"
         },
         {
             "name": "E-Commers",
             "github": "https://github.com/AzharJacobs/JavaScript.Project",
             "vercel": "https://java-script-project-nhcn.vercel.app/",
             "description": "E-COmemrsusing HTML, CSS and Javascript",
-            "image": "/images/mangaEcom.png"
+            "image": "https://azharjacobs.github.io/AzharImages/portfolio/mangaEcom.png"
         }
     ],
 
@@ -104,37 +104,37 @@
 
     "skills": [
         {
-            "icon": "/images/html.jpg",
+            "icon": "https://azharjacobs.github.io/AzharImages/portfolio/html.jpg",
             "name": "HTML"
             
         },
         {
-            "icon": "/images/css.png",
+            "icon": "https://azharjacobs.github.io/AzharImages/portfolio/css.png",
             "name": "CSS"
             
         },
         {
-            "icon": "/images/bootstrap2.png",
+            "icon": "https://azharjacobs.github.io/AzharImages/portfolio/bootstrap2.png",
             "name": "Bootstrap"
             
         },
         {
-            "icon": "/images/js.jpg",
+            "icon": "https://azharjacobs.github.io/AzharImages/portfolio/js.jpg",
             "name": "Javascript"
             
         },
         {
-            "icon": "/images/sql.webp",
+            "icon": "https://azharjacobs.github.io/AzharImages/portfolio/sql.webp",
             "name": "MySQL"
             
         },
         {
-            "icon": "/images/azure.png",
+            "icon": "https://azharjacobs.github.io/AzharImages/portfolio/azure.png",
             "name": "Azure"
             
         },
         {
-            "icon": "/images/Vue.png",
+            "icon": "https://azharjacobs.github.io/AzharImages/portfolio/Vue.png",
             "name": "Vue"
             
         }
