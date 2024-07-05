@@ -104,37 +104,37 @@
 
     "skills": [
         {
-            "icon": "https://azharjacobs.github.io/AzharImages/ortfolio/html.jpg",
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/html.jpg",
             "name": "HTML"
             
         },
         {
-            "icon": "https://azharjacobs.github.io/AzharImages/ortfolio/css.png",
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/css.png",
             "name": "CSS"
             
         },
         {
-            "icon": "https://azharjacobs.github.io/AzharImages/ortfolio/bootstrap2.png",
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/bootstrap2.png",
             "name": "Bootstrap"
             
         },
         {
-            "icon": "https://azharjacobs.github.io/AzharImages/ortfolio/js.jpg",
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/js.jpg",
             "name": "Javascript"
             
         },
         {
-            "icon": "https://azharjacobs.github.io/AzharImages/ortfolio/sql.webp",
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/sql.webp",
             "name": "MySQL"
             
         },
         {
-            "icon": "https://azharjacobs.github.io/AzharImages/ortfolio/azure.png",
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/azure.png",
             "name": "Azure"
             
         },
         {
-            "icon": "https://azharjacobs.github.io/AzharImages/ortfolio/Vue.png",
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/Vue.png",
             "name": "Vue"
             
         }
