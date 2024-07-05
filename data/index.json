@@ -47,29 +47,29 @@
     "projects": [
         {
             "name": "Calculator",
-            "github": "https://github.com/caleb-okkers/calculator.git",
-            "vercel": "https://calculator-ruddy-gamma.vercel.app/",
+            "github": "https://github.com/AzharJacobs/calculator",
+            "vercel": "https://calculator-blond-rho.vercel.app/",
             "description": "Calculator using HTML, CSS and Javascript",
             "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/Calculator.png?raw=true"
         },
         {
             "name": "To Do List",
-            "github": "https://github.com/caleb-okkers/toDoList.git",
-            "vercel": "https://to-do-list-psi-gules.vercel.app/",
+            "github": "https://github.com/AzharJacobs/ToDoList",
+            "vercel": "https://to-do-list-six-hazel.vercel.app/",
             "description": "To Do List using HTML, CSS and Javascript",
             "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/ToDoList.png?raw=true"
         },
         {
             "name": "Resturant business",
-            "github": "https://github.com/caleb-okkers/mp3Player.git",
-            "vercel": "https://mp3-player-topaz.vercel.app/",
+            "github": "https://github.com/AzharJacobs/Resturant",
+            "vercel": "https://resturant-alpha.vercel.app/",
             "description": "resturant using HTML, CSS and Javascript",
             "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/MP3player.png?raw=true"
         },
         {
             "name": "E-Commers",
-            "github": "",
-            "vercel": "",
+            "github": "https://github.com/AzharJacobs/JavaScript.Project",
+            "vercel": "https://java-script-project-nhcn.vercel.app/",
             "description": "E-COmemrsusing HTML, CSS and Javascript",
             "image": ""
         }
