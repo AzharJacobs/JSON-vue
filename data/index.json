@@ -14,7 +14,7 @@
     "aboutMe": [
         {
             "name": "About",
-            "text": "I consider myself someone who balances a playful and lighthearted approach with a strong sense of responsibility and focus when needed. My core principles revolve around respect, kindness, integrity, and mindfulness, and I make it a point to always be truthful and open. I thrive on personal growth and motivating those around me. As for my interests, they span a wide range, but I particularly enjoy staying active through exercise and MMA, engaging in football, exploring web development and design, sketching, immersing myself in music and movies, and cherishing moments with family and friends."
+            "text": "I consider myself someone who balances a playful and lighthearted approach with a strong sense of responsibility and focus when needed. My core principles revolve around respect, kindness, integrity, and mindfulness, and I make it a point to always be truthful and open. I thrive on personal growth and motivating those around me."
         },
         {
             "name": "Objective",
@@ -36,11 +36,6 @@
             "image": "https://azharjacobs.github.io/AzharImages/Portfolio/family.webp",
             "name": "Family",
             "text": "Spending quality time with my family, friends, and pets brings me immense joy. I am naturally sociable and cherish moments of relaxation and playful banter with my loved ones. They have played a pivotal role in shaping my character, and I feel incredibly fortunate to share meaningful experiences with them."
-        },
-        {
-            "image": "https://azharjacobs.github.io/AzharImages/Portfolio/gym.jpg",
-            "name": "gyming",
-            "text": "Dedicating myself to gym workouts as a cherished hobby not only enhances my physical strength and endurance but also contributes significantly to my mental clarity, emotional resilience, and overall well-being. The discipline and consistency required in maintaining a workout regimen not only sculpt my physique but also instill a sense of accomplishment and self-confidence.."
         }
     ],
 
@@ -80,25 +75,25 @@
             "qualification": "Fullstack Web Development Bootcamp",
             "year": "April 2024 - ",
             "institution": "Life Choices Coding Academy",
-            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/LC.png?raw=true"
+            "description": "Completed an intensive coding program focusing on full-stack web development. Gained hands-on experience with front-end and back-end technologies, including HTML, CSS, JavaScript, Node.js, and databases. Developed collaborative projects and built strong problem-solving and coding skills in a fast-paced learning environment."
         },
         {
             "qualification": "MSITA Web Developer",
             "year": "January 2023 - December 2023",
-            "institution": "Collage of cape towwn",
-            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/su.png?raw=true"
+            "institution": "Collage of cape town",
+            "description": "Studied Web Development at one of the leading institutions in technical and vocational education. Acquired foundational knowledge and practical skills in HTML, CSS, JavaScript, Python and PhotoShop with a focus on preparing for real-world applications in the industry. Engaged in both theoretical learning and hands-on projects to enhance technical proficiency."
         },
         {
             "qualification": "Software Developer",
             "year": "Febuary 2021 - December 2021",
             "institution": "IT Academy",
-            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/cput.png?raw=true"
+            "description": "Completed specialized training in information technology, focusing on [specific areas like networking, software development, cybersecurity, etc.]. Gained valuable insights and hands-on experience with industry-standard tools and technologies. Developed a solid understanding of IT concepts, practical problem-solving skills, and prepared for certifications relevant to the field."
         },
         {
             "qualification": "NSC",
             "year": "January 2016 - December 2020",
             "institution": "Ouder Molen technical High School",
-            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/srhs.png?raw=true"
+            "description": "Attended a technical high school that emphasized both academic excellence and practical skills. Specialized in [specific technical subjects, e.g., engineering, computer science, etc.], gaining a strong foundation in problem-solving, technical drawing, and hands-on project work. Developed discipline, teamwork, and a solid understanding of technical concepts that prepared me for further studies and career pursuits."
         }
     ],
 
@@ -137,6 +132,14 @@
             "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/Vue.png",
             "name": "Vue"
             
+        },
+        {
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/photoshop.png",
+            "name": "Photoshop"
+        },
+        {
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/Python.png",
+            "name": "Python"
         }
 
     ],
