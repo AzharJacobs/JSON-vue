@@ -58,14 +58,14 @@
             "name": "E-Commers",
             "github": "https://github.com/mrshane06/node_assignment",
             "vercel": "https://node-eomp-272a2.web.app/",
-            "description": "resturant using HTML, CSS and Javascript",
+            "description": "Online Store using HTML, CSS, vue.js and Node.js",
             "image": "https://azharjacobs.github.io/AzharImages/Portfolio/Node.png"
         },
         {
             "name": "E-Commers",
             "github": "https://github.com/AzharJacobs/JavaScript.Project",
             "vercel": "https://java-script-project-nhcn.vercel.app/",
-            "description": "E-COmemrsusing HTML, CSS and Javascript",
+            "description": "E-Commers Store HTML, CSS and Javascript",
             "image": "https://azharjacobs.github.io/AzharImages/Portfolio/mangaEcom.png"
         }
     ],
