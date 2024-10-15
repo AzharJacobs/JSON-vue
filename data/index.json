@@ -29,7 +29,7 @@
         },
         {
             "image": "https://azharjacobs.github.io/AzharImages/Portfolio/Gaming.jpg",
-            "name": "anime",
+            "name": "Gaming",
             "text": "My creativity has always been a valuable asset, whether in coding or in my hobby of gaming. I enjoy exploring game mechanics, strategizing, and immersing myself in virtual worlds. Web development has allowed me to channel that same creativity, turning ideas into functional, engaging projects. It's helping me grow both personally and professionally."
         },
         {
@@ -87,13 +87,13 @@
             "qualification": "Software Developer",
             "year": "Febuary 2021 - December 2021",
             "institution": "IT Academy",
-            "description": "Completed specialized training in information technology, focusing on [specific areas like networking, software development, cybersecurity, etc.]."
+            "description": "Completed specialized training in information technology, focusing on [specific areas like networking, software development."
         },
         {
             "qualification": "NSC",
             "year": "January 2016 - December 2020",
             "institution": "Ouder Molen technical High School",
-            "description": "Attended a technical high school that emphasized both academic excellence and practical skills. Specialized in [specific technical subjects, e.g., engineering, computer science, etc.]."
+            "description": "Attended a technical high school that emphasized both academic excellence and practical skills."
         }
     ],
 
@@ -142,6 +142,39 @@
             "name": "Python"
         }
 
+    ],
+
+    "SOft Skills": [
+        {
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/team.png",
+            "name": "TeamWork"
+            
+        },
+        {
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/coms.png",
+            "name": "Communication"
+            
+        },
+        {
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/detail.png",
+            "name": "Attention to Detail"
+            
+        },
+        {
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/time.jpg",
+            "name": "Time Managment"
+            
+        },
+        {
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/solve.jpg",
+            "name": "Problem Solving"
+            
+        },
+        {
+            "icon": "https://azharjacobs.github.io/AzharImages/Portfolio/creative.png",
+            "name": "Creative Thinking"
+            
+        }
     ],
 
     "work": [
