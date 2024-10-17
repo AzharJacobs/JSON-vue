@@ -1,7 +1,7 @@
 {
     "jobTitle": [
         {
-        "title": "Fullstack Developer"
+        "title": " Aspiring Fullstack Developer"
     },
     {
         "title": "Software Engineer"
@@ -67,6 +67,13 @@
             "vercel": "https://java-script-project-nhcn.vercel.app/",
             "description": "E-Commers Store HTML, CSS and Javascript",
             "image": "https://azharjacobs.github.io/AzharImages/Portfolio/mangaEcom.png"
+        },
+        {
+            "name": "Hulu",
+            "github": "https://github.com/AzharJacobs/Hulu",
+            "vercel":"https://calculator-blond-rho.vercel.app/",
+            "description": "Quiz App using HTML, CSS and Javascript",
+            "image": "https://azharjacobs.github.io/AzharImages/Portfolio/hulu.png"
         }
     ],
 
