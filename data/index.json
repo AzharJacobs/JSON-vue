@@ -1,7 +1,7 @@
 {
     "jobTitle": [
         {
-        "title": " Aspiring Fullstack Developer"
+        "title": "Fullstack Developer"
     },
     {
         "title": "Software Engineer"
@@ -74,6 +74,13 @@
             "vercel":"https://hulu-pearl-zeta.vercel.app/",
             "description": "Quiz App using HTML, CSS and Javascript",
             "image": "https://azharjacobs.github.io/AzharImages/Portfolio/hulu.png"
+        },
+        {
+            "name": "My Brain Hurt",
+            "github": "https://github.com/AzharJacobs/MybrainHurt.git",
+            "vercel": "https://memory-game-8i4a.onrender.com/",
+            "description": "Quiz App using HTML, CSS, Javascript and Python",
+            "image": "https://azharjacobs.github.io/AzharImages/Portfolio/MyBrainHurt.png"
         }
     ],
 
@@ -87,7 +94,7 @@
         {
             "qualification": "MSITA Web Developer",
             "year": "January 2023 - December 2023",
-            "institution": "Collage of cape town",
+            "institution": "College of cape town",
             "description": "Studied Web Development at one of the leading institutions in technical and vocational education. Acquired foundational knowledge and practical skills in HTML, CSS, JavaScript, Python and PhotoShop."
         },
         {
@@ -199,8 +206,8 @@
         },
         {
             "company": "Life Choices",
-            "year": "April 2024 - ",
-            "description": "Im am Aspiring Software Developer doing an Internship and understanding the ways of a Developer",
+            "year": "Current",
+            "description": "Im am Software Developer doing an Internship and understanding the ways of a Developer",
             "reference": [
                 {
                     "name": "",
